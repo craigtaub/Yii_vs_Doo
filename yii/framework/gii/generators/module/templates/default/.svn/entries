@@ -1,0 +1,77 @@
+10
+
+dir
+3707
+https://github.com/yiisoft/yii/trunk/framework/gii/generators/module/templates/default
+https://github.com/yiisoft/yii
+
+
+
+2012-11-04T16:23:05.000000Z
+3583
+maurizio.domba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87037b24-bcb4-18d1-d9d9-ce57b7db7bff
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2012-11-04T18:12:53.113913Z
+bc12cddc675b1908d484eba5838e4941
+2012-11-04T16:23:05.000000Z
+2217
+maurizio.domba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+725
+
+views
+dir
+

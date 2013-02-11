@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/yiisoft/yii/!svn/ver/3707/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/yiisoft/yii/!svn/ver/1746/trunk/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/yiisoft/yii/!svn/ver/3671/trunk/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/yiisoft/yii/!svn/ver/3671/trunk/.travis.yml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/yiisoft/yii/!svn/ver/3702/trunk/CHANGELOG
+END
+CONTRIBUTING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/yiisoft/yii/!svn/ver/3671/trunk/CONTRIBUTING
+END
+UPGRADE
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/yiisoft/yii/!svn/ver/3671/trunk/UPGRADE
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/yiisoft/yii/!svn/ver/3583/trunk/README.md
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/yiisoft/yii/!svn/ver/2508/trunk/README
+END
